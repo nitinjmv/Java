@@ -1,4 +1,4 @@
-package dev.nitinjmv.easy;
+package dev.jmv.dsa.easy;
 
 import java.util.ArrayList;
 import java.util.List;

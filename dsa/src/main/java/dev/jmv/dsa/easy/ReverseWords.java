@@ -1,4 +1,4 @@
-package dev.nitinjmv.easy;
+package dev.jmv.dsa.easy;
 
 public class ReverseWords {
     public static void main(String[] args) {

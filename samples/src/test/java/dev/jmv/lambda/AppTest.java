@@ -1,4 +1,4 @@
-package dev.nitinjmv;
+package dev.jmv.lambda;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

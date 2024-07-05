@@ -1,8 +1,6 @@
-package dev.nitinjmv.easy;
+package dev.jmv.dsa.easy;
 
 import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
 
 public class Anagram {
     public static void main(String[] args) {

@@ -1,11 +1,7 @@
-package dev.nitinjmv.easy;
+package dev.jmv.dsa.easy;
 
-import java.io.CharArrayReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Pangram {
     public static void main(String[] args) {
